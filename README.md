@@ -8,7 +8,7 @@ Simply download and run from main. If the program takes an unacceptable amount o
 
 ### Prerequisites
 
-* A Python interpreter.
+* A Python 3 interpreter.
 * The following libraries, which can be installed simply using "pip install <library_name>":
 
     * datetime
